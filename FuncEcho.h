@@ -1,0 +1,2 @@
+
+void FuncEcho(char *Str);
